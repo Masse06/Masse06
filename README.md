@@ -1,4 +1,4 @@
-<h1 align="center">Buenas! 👋  soy Masse ✨ </h1> 
+<h1 align="center">Buenas!👋 soy Masse </h1> 
 
 <p align="left">
 <a href="https://www.linkedin.com/in/daniel-mart%C3%ADnez-todor-a053a12b9/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="masseLinkedln"/></a>
@@ -35,7 +35,7 @@
 
 <td width="80%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=unsimpledev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.masse06.vercel.app/api/top-langs/?username=unsimpledev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
   </td>
 </tr>
